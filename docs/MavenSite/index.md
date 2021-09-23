@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Dependency Report
 has_children: true
 nav_order: 4
 ---

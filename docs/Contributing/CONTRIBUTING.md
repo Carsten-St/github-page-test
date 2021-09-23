@@ -18,7 +18,7 @@ Feel free to suggest changes or enhancements to this guideline.
 4. Push your changes to a topic branch in your fork of the repository.
 5. Submit a pull request - we will get back to you shortly.
 
-## File a bug
+## Find a bug
 If you find a bug, feel free to submit an issue.
 
 To be able to understand the bug, please attach additional information to enable reproducing the bug.

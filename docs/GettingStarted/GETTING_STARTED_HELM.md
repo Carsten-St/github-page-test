@@ -1,6 +1,6 @@
 ---
 title: Getting Started with Helm
-parent: GettingStarted
+parent: Getting Started
 nav_order: 2
 ---
 ### Getting Started with Helm
