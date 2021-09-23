@@ -42,12 +42,12 @@ The username and password are both `demo` for our [showcase environment](https:/
     * Spring boot AutoConfiguration for the Elasticsearch REST client, used by Analyzer and Pipeline.
 
 ## Dependency Report 
-All licences of reused components can be found [here](./MavenSite/index.html). 
+All licences of reused components can be found [here](/docs/MavenSite/index.html). 
 
 ## Collaboration
 
 The project is operated and further developed by the viadee Consulting AG.
-* Community contributions to the project are welcome: Please open Github-Issues with suggestions (or PR), which we can then edit in the team. For contribution please take account of our [contributing guidelines](./Contributing/CONTRIBUTING.md).
+* Community contributions to the project are welcome: Please open Github-Issues with suggestions (or PR), which we can then edit in the team. For contribution please take account of our [contributing guidelines](/docs/Contributing/CONTRIBUTING.md).
 * We are also looking for further partners who have interesting process data to refine our tooling as well as partners that are simply interested in a discussion about AI and data warehouses in the context of business process automation.
 
 ## Commitments
@@ -63,4 +63,4 @@ This software is considered to be stable and ready for production use.
 However, we plan to extend on it if there is demand or if the APIs change.
 
 ## License
-This project is licensed under the BSD 3-Clause "New" or "Revised" License - see the [LICENSE](https://github.com/viadee/vPW/blob/master/LICENSE) file for details.
+This project is licensed under the BSD 3-Clause "New" or "Revised" License - see the [LICENSE](LICENSE.md) file for details.
