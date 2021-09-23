@@ -12,9 +12,7 @@ The viadee Process Warehouse (vPW) enables the analysis of process data that is 
 
 <br>
 
-<h3 align="center"><a href="/vpw-backend-parent/GETTING_STARTED_DOCKER.md">Getting Started with Docker</a></h3>
-
-<h3 align="center"><a href="/vpw-backend-parent/GETTING_STARTED_HELM.md">Getting Started with Helm</a></h3>
+<h3 align="center"><a href="/vpw-backend-parent/GETTING_STARTED_DOCKER.md">See Documentation</a></h3>
 
 <h3 align="center"><a href="https://vpw.bpm2.viadee.cloud/">Discover our showcase</a></h3>
 
@@ -42,12 +40,12 @@ The username and password are both `demo` for our [showcase environment](https:/
     * Spring boot AutoConfiguration for the Elasticsearch REST client, used by Analyzer and Pipeline.
 
 ## Dependency Report 
-All licences of reused components can be found [here](). 
+All licences of reused components can be found [here](MavenSite/index.htlm). 
 
 ## Collaboration
 
 The project is operated and further developed by the viadee Consulting AG.
-* Community contributions to the project are welcome: Please open Github-Issues with suggestions (or PR), which we can then edit in the team. For contribution please take account of our [contributing guidelines](CONTRIBUTING.md).
+* Community contributions to the project are welcome: Please open Github-Issues with suggestions (or PR), which we can then edit in the team. For contribution please take account of our [contributing guidelines](Contributing/CONTRIBUTING.md).
 * We are also looking for further partners who have interesting process data to refine our tooling as well as partners that are simply interested in a discussion about AI and data warehouses in the context of business process automation.
 
 ## Commitments
