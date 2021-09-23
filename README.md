@@ -12,9 +12,11 @@ The viadee Process Warehouse (vPW) enables the analysis of process data that is 
 
 <br>
 
-<h3 align="center"><a href="/vpw-backend-parent/GETTING_STARTED_DOCKER.md">See Documentation</a></h3>
+<h2 align="center"><a href="https://carsten-st.github.io/github-page-test/">DOCUMENTATION</a></h3>
 
-<h3 align="center"><a href="https://vpw.bpm2.viadee.cloud/">Discover our showcase</a></h3>
+<h2 align="center"><a href="https://vpw.bpm2.viadee.cloud/">Discover our SHOWCASE</a></h3>
+
+<h2 align="center"><a href="https://www.viadee.de/en/solutions/business-process-management/process-warehouse">GET IN TOUCH WITH US</a></h3>
 
 <br>
 
@@ -62,9 +64,3 @@ However, we plan to extend on it if there is demand or if the APIs change.
 
 ## License
 This project is licensed under the BSD 3-Clause "New" or "Revised" License - see the [LICENSE](https://github.com/viadee/vPW/blob/master/LICENSE) file for details.
-
-<br>
-
-----------------------------
-
-<h3 align="center"><a href="https://www.viadee.de/en/solutions/business-process-management/process-warehouse">GET IN TOUCH WITH US</a></h3>
