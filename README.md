@@ -27,20 +27,6 @@ ________________________________
 ## Showcase
 The username and password are both `demo` for our [showcase environment](https://vpw.bpm2.viadee.cloud/).
 
-## Modules
-* **[analyzer](/vpw-backend-parent/analyzer)**
-    * Spring-Boot-App
-    * Provision of a REST API for the vPW frontend
-    * Persistence of inventory data (dashboards, indicators) in PostgreSQL
-    * Generation of Elasticsearch requests from the frontend requests and processing/preparation of the results
-* **[pipeline](/vpw-backend-parent/pipeline)**
-    * Spring-Boot-App
-    * Receiving process data from Kafka
-    * Data preparation, including "breaking up" JSON objects into flat structures
-    * Storage/indexing in Elasticsearch
-* **[vpw-shared-elasticsearch-config](/vpw-backend-parent/vpw-shared-elasticsearch-config)**
-    * Spring boot AutoConfiguration for the Elasticsearch REST client, used by Analyzer and Pipeline.
-
 ## Dependency Report 
 All licences of reused components can be found [here](/docs/MavenSite/index.html). 
 
