@@ -1,7 +1,3 @@
----
-title: vPW
-nav_order: 1
----
 <h1 align="center">The viadee Process Warehouse </h1>
 <h1 align="center">Explore what happens in your BPMN processes </h1>
 
