@@ -11,7 +11,7 @@ This document is intended to give contributors a set of guidelines for the contr
 The guidelines should provide help for your contribution. 
 Feel free to suggest changes or enhancements to this guideline.
 
-# How can I contribute?
+## How can I contribute?
 1. Let's talk about it. Preferrably in the form of a github issue.
 2. Sign the [Contributor License Agreement](CLA_individual.md) and send it via e-mail to one of the maintainers of the project (we store CLAs separately for GDPR reasons). There is a separate form for those, [contributing as a corporate entity](CLA_corporate.md) and not as an individual.
 3. Fork this repository.

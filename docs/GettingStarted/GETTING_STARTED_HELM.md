@@ -3,7 +3,7 @@ title: Getting Started with Helm
 parent: Getting Started
 nav_order: 2
 ---
-## Getting Started with Helm
+# Getting Started with Helm
 
 ### 1. Available Charts 
 

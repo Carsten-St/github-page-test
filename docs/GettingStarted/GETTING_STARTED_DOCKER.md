@@ -3,7 +3,7 @@ title: Getting Started with Docker
 parent: Getting Started
 nav_order: 1
 ---
-## Getting Started with Docker
+# Getting Started with Docker
 
 ### 1. Start all
 

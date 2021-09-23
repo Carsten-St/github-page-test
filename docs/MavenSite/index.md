@@ -1,6 +1,5 @@
 ---
-title: Dependency Report
-has_children: true
-nav_order: 4
+title: Dependency Report (Maven)
+nav_order: 5
 ---
 Test
