@@ -1,11 +1,11 @@
 ---
 title: Getting Started with Docker
-parent: GettingStarted
+parent: Getting Started
 nav_order: 1
 ---
-### Getting Started with Docker
+## Getting Started with Docker
 
-#### 1. Start all
+### 1. Start all
 
 The command `docker-compose up -d` (see [docker-compose.yml](docker-compose.yml)) starts all required components: 
 * **Apache Kafka** inclusive Zookeeper und Kafka Manager**
@@ -21,10 +21,10 @@ The command `docker-compose up -d` (see [docker-compose.yml](docker-compose.yml)
 
 ** not necessary for basic functionality of the vPW
 
-#### 2. Develop local
+### 2. Develop local
 The command `docker-compose --file docker-compose-developer.yml up -d` (see [docker-compose_developer.yml](docker-compose_developer.yml)) starts all necessary applications except:
 * **vpw-analyzer** Start on your IDE with spring profile `local`
 * **vpw-pipeline** Start on your IDE with spring profile `local`
 
-#### 3. Images 
+### 3. Images 
 The images can be found on our [Amazon Elastic Container Registry (ECR)](https://gallery.ecr.aws/viadee/).
