@@ -3,9 +3,9 @@ title: Getting Started with Helm
 parent: Getting Started
 nav_order: 2
 ---
-### Getting Started with Helm
+## Getting Started with Helm
 
-#### 1. Available Charts 
+### 1. Available Charts 
 
 The following charts are available: 
 
@@ -17,7 +17,7 @@ The following charts are available:
 
 It is recommended to install the *vpw-chart*, since as an umbrella chart it combines all vpw components (vpw-analyzer-chart, vpw-pipeline-chart, vpw-frontend-chart, vpw-polling-client) and therefore allows an easy deployment.
 
-#### 2. Usage
+### 2. Usage
 
 * [Helm](https://helm.sh) must be installed to use the charts. Please refer to
   Helm's [documentation](https://helm.sh/docs) to get started.
@@ -38,6 +38,6 @@ It is recommended to install the *vpw-chart*, since as an umbrella chart it comb
 
   `helm delete my-<chart-name>`
 
-#### 3. Set your own values
+### 3. Set your own values
 
 It is possible, and in most environments necessary, that the set default values of the charts need to be customized to your Kubernetes environment. Please refer to the values.yaml for each chart, especially to the `environment.secret` and `environment.configMap` sections. 
