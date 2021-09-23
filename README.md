@@ -12,11 +12,11 @@ The viadee Process Warehouse (vPW) enables the analysis of process data that is 
 
 <br>
 
-<h2 align="center"><a href="https://carsten-st.github.io/github-page-test/">DOCUMENTATION</a></h3>
+<h2 align="center"><a href="https://carsten-st.github.io/github-page-test/">DOCUMENTATION</a></h2>
 
-<h2 align="center"><a href="https://vpw.bpm2.viadee.cloud/">Discover our SHOWCASE</a></h3>
+<h2 align="center"><a href="https://vpw.bpm2.viadee.cloud/">Discover our SHOWCASE</a></h2>
 
-<h2 align="center"><a href="https://www.viadee.de/en/solutions/business-process-management/process-warehouse">GET IN TOUCH WITH US</a></h3>
+<h2 align="center"><a href="https://www.viadee.de/en/solutions/business-process-management/process-warehouse">GET IN TOUCH WITH US</a></h2>
 
 <br>
 
