@@ -10,7 +10,7 @@ First open source release.
 #### Version Look Up
 
 | Typ                   | Name                     | Version | Source                                                       |
-|:----------------------|:-------------------------|:--------|:-------------------------------------------------------------|
+|-----------------------|--------------------------|---------|--------------------------------------------------------------|
 | Docker image          | vpw-analyzer             | 7.0.0   | [AWS ECR](https://gallery.ecr.aws/viadee/)                   |
 | Docker image          | vpw-pipeline             | 7.0.0   | [AWS ECR](https://gallery.ecr.aws/viadee/)                   |
 | Docker image          | vpw-frontend             | 7.0.0   | [AWS ECR](https://gallery.ecr.aws/viadee/)                   |
